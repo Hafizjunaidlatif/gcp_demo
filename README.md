@@ -1,2 +1,2 @@
 # gcp_demo
-google cloud
+## Codanica Demo for Google Cloud Platform
